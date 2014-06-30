@@ -1,0 +1,52 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    background: #D8EFFF;
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+input.video-url {
+    padding: 13px;
+    max-width: 320px;
+    width: 100%;
+    font-weight: bold;
+    color: #2980b9;
+    border: 2px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -160px;
+    font-size: 13px;
+    margin-top: -40px;
+}
+
+.actions button {
+    border: none;
+    color: white;
+    background: #3498db;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 20px;
+    box-shadow: 0 2px 0 #2980b9;
+}
+div.actions {
+    background: rgba(26, 188, 156, 0.92);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 5px 10px 7px 10px;
+    border-bottom: 3px solid rgba(22, 160, 133, 0.82);
+    z-index: 2;
+    text-align: center;
+}
+

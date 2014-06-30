@@ -9,6 +9,8 @@ $(document).ready(function () {
         $API.debug(e.message || e.toString() || e);
     };
 
+    $API.setWindowTitle("YouTube Topmost");
+
     var $actions = $(".actions")
       , $undecorateButton = $(".undecorate", $actions)
       , $closeButton = $(".close", $actions)

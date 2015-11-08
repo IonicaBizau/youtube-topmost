@@ -1,6 +1,6 @@
 {
   "name": "youtube-topmost",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Watch YouTube videos into a topmost, undecorated OS native window.",
   "main": "functions.js",
   "scripts": {
@@ -20,5 +20,40 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/youtube-topmost/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/youtube-topmost"
+  "homepage": "https://github.com/IonicaBizau/youtube-topmost",
+  "blah": {
+    "title": "YouTube Topmost",
+    "description": [
+      {
+        "p": [
+          "This application requires the [BAT](https://github.com/IonicaBizau/bat) platform to be installed."
+        ]
+      },
+      {
+        "h2": "Usage"
+      },
+      {
+        "code": {
+          "language": "sh",
+          "content": "./start.sh <url|video-id>"
+        }
+      },
+      {
+        "h2": "Demo"
+      },
+      {
+        "img": {
+          "source": "http://i.imgur.com/fwL6Rn7.png"
+        }
+      },
+      {
+        "p": "After pressing the <kbd>Start</kbd> button, the video will be played."
+      },
+      {
+        "img": {
+          "source": "http://i.imgur.com/N54Port.png"
+        }
+      }
+    ]
+  }
 }

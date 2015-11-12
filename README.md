@@ -4,7 +4,7 @@ Watch YouTube videos into a topmost, undecorated OS native window.
 
 This application requires the [BAT](https://github.com/IonicaBizau/bat) platform to be installed.
 
-## Run
+## Usage
 ```sh
 ./start.sh <url|video-id>
 ```

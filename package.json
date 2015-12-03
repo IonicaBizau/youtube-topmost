@@ -1,6 +1,6 @@
 {
   "name": "youtube-topmost",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Watch YouTube videos into a topmost, undecorated OS native window.",
   "main": "functions.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "bat"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/youtube-topmost/issues"
   },

@@ -1,6 +1,6 @@
 {
   "name": "youtube-topmost",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Watch YouTube videos into a topmost, undecorated OS native window.",
   "main": "functions.js",
   "scripts": {

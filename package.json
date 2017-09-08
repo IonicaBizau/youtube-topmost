@@ -1,6 +1,6 @@
 {
   "name": "youtube-topmost",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Watch YouTube videos into a topmost, undecorated OS native window.",
   "main": "functions.js",
   "scripts": {
@@ -66,6 +66,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
